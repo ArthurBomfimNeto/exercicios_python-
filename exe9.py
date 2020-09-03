@@ -1,4 +1,5 @@
 '''Importando a biblioteca'''
+'''essa linha foi excluido '''
 from math import radians,cos,tan,sin
 an = float(input('Digite o angulo :'))
 seno = sin(radians(an))
