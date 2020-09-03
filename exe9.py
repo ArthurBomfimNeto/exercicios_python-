@@ -1,4 +1,5 @@
 '''Importando a biblioteca'''
+'''modification'''
 from math import radians,cos,tan,sin
 an = float(input('Digite o angulo :'))
 seno = sin(radians(an))
